@@ -8,3 +8,4 @@
 - definir conexion a la BD: renombrar .env.example a .env
 - instalar dependencias: composer install
 - php artisan migrate 
+- Definir usuario de gamil y modificar las configuraciones del correo.
